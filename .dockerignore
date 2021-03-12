@@ -1,0 +1,11 @@
+**/__pycache__/
+*.pyc
+venv
+.vscode
+.idea
+.gitignore
+.DS_Store
+**/.pytest_cache/
+Dockerfile
+secrets.ini
+reports/
