@@ -1,0 +1,10 @@
+**/__pycache__/
+*.pyc
+venv
+.vscode
+.idea
+.DS_Store
+*.html
+**/.pytest_cache/
+secrets.ini
+reports/
